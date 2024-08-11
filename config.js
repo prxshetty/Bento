@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '43.1566',
-	defaultLongitude: '77.6088',
+	defaultLatitude: '43.156',
+	defaultLongitude: '77.608',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
